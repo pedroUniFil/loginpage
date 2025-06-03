@@ -20,8 +20,8 @@ Este repositório apresenta um projeto simples com uma **interface de login resp
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/pedroUniFil/loginpage
+cd loginpage
 
 ### Instale as dependências:
 Conteúdo do requirements.txt:
